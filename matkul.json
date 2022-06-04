@@ -1,0 +1,1000 @@
+[
+  {
+    "ltitle": "Administrasi Sistem",
+    "description": "Kuliah ini membahas administrasi jaringan dan sistem. Metode pengajaran diberikan melalui teori dan praktek di lab. Selain itu, untuk meningkatkan pemahaman dan keahlian, peserta kuliah akan mendapatkan beberapa tugas yang harus dikerjakan secara individu maupun kelompok.",
+    "code": "CSIE604274",
+    "sks": 3,
+    "depedencies": [
+      "Jaringan Komunikasi Data"
+    ]
+  },
+  {
+    "ltitle": "Aljabar Linier",
+    "description": "Mata ajar Aljabar Linear membekali mahasiswa keterampilan pemecahan masalah terkait dengan aljabar vektor dan meningkatkan penalaran matematis (logis, konsisten, jelas, seksama) yang merupakan disposisi dan keterampilan berpikir kritis. Bahan kajian meliputi sistem persamaan linear, aljabar matriks, ruang vektor dan hasil kali dalam, nilai dan vektor eigen, serta transformasi linear. Capaian pembelajaran mata kuliah menjadi salah satu landasan penting yang mendukung mata kuliah lanjutan di bidang Ilmu Komputer.",
+    "code": "CSGE602012",
+    "sks": 3,
+    "depedencies": [
+      "-"
+    ]
+  },
+  {
+    "ltitle": "Arsitektur dan Pemrograman Aplikasi Perusahaan",
+    "description": "Kuliah ini memperkenalkan teknologi pengembangan aplikasi enterprise terkini. Dimulai dari konsep pengembangan aplikasi, framework pengembangan terbaru, penggunaan database dan studi kasus yang dituangkan dalam tugas proyek berkelompok.",
+    "code": "CSIM603026",
+    "sks": 3,
+    "depedencies": [
+      "Proyek Pengembangan Sistem Informasi (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Analisis dan Perancangan Sistem Informasi",
+    "description": "Mata kuliah ini berfokus pada Analisis dan Perancangan Sistem Informasi (APSI). APSI melibatkan pemahaman terkait kebutuhan informasi oleh pengguna dan bagaimana kebutuhan tersebut dapat digunakan untuk merancang Sistem Informasi (SI) untuk mencapai tujuan organisasi. APSI merupakan pendekatan terpadu dalam interaksi manusia-komputer yang dapat menghasilkan Sistem Informasi yang bersifat adaptif. APSI tidak dapat dianggap sebagai komponen yang tunggal, karena APSI merupakan proses yang saling terkait dan akan berevolusi untuk merespons pertumbuhan dan perubahan dalam lingkungan organisasi, kebutuhan manajemen organisasi dan kebutuhan pengguna. Mata kuliah ini akan membahas konsep APSI, metodologi tentang bagaimana cara memperoleh kebutuhan pengguna sehingga rancangan SI dapat memenuhi kebutuhan organisasi. Berbagai pendekatan yang digunakan dalam metodologi APSI akan dibahas, termasuk penggunaan berbagai metode, teknik, proses, prosedur, dan alat untuk analisis dan perancangan. Selain itu, mata kuliah ini juga akan mengeksplorasi peran APSI yang telah beralih dari sekedar pendukung dalam pengembangan SI, menjadi fungsi inti (enabler) yang mendorong SI yang bersifat adaptif dan dapat diterima, melalui perbaikan kualitas informasi,  101  perbaikan pengambilan keputusan dan perbaikan pembagian sumber daya, dll. Perancangan sistem informasi harus dapat mencerminkan SI yang dapat membawa daya saing dan mempertahankan posisi strategis sebuah organisasi.",
+    "code": "CSIM603183",
+    "sks": 3,
+    "depedencies": [
+      "Basis Data (pernah mengambil/mengambil bersamaan)",
+      "Prinsip-Prinsip Sistem Informasi (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Analisis Numerik",
+    "description": "Mata kuliah ini membahas dasar-dasar penerapan komputasi ilmiah untuk ilmu komputer. Topik yang dibahas meliputi prinsip-prinsip matematika dasar serta algoritma analisa numerik sampai pada isu-isu praktis seperti reliabilitas perangkat lunak dan kinerja pada perangkat keras mutakhir. peserta dilatih untuk memecahkan persoalan tekait tema tema analisis numerik, beberapa latihan dibuat dengan pembuatan program dengan bahasa apapun, namun dianjurkan C, Matlab atau tools open source lainnya",
+    "code": "CSCM603217",
+    "sks": 3,
+    "depedencies": [
+      "Aljabar Linear",
+      "Kalkulus 2"
+    ]
+  },
+  {
+    "ltitle": "Analitika Media Sosial",
+    "description": "Media sosial telah mengubah cara kita untuk berinteraksi dengan sesama dan mendorong perubahan sangat besar dalam proses persebaran informasi. Media sosial seperti microblogs, blogs, social networking sites, dan internet forums, sudah menjadi bagian dari kehidupan manusia saat ini, dan sering digunakan untuk membangun jaringan pertemanan antar lokasi yang berjauhan serta mempublikasikan konten yang sangat beragam, mulai dari berita, fakta, tanggapan, opini, dan pengalaman pribadi terhadap suatu topik. Dengan kekayaan informasi tersebut, media sosial memberikan data yang sangat besar dan menarik untuk dianalisis, serta menawarkan peluang penelitian baru dan menantang. Kuliah ini akan mengkaji beberapa topik, yaitu social network analysis, information cascades, social media content analysis dan menunjukkan bagaimana artificial  105  intelligence, metode linguistic, dan metode statistika dikembangkan untuk mempelajari topik-topik tersebut.",
+    "code": "CSIE604284",
+    "sks": 3,
+    "depedencies": [
+      "Matematika Diskret 2 (lulus)",
+      "Kecerdasan Artifisial dan Sains Data Dasar (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Arsitektur dan Pemrograman Perusahaan",
+    "description": "Kuliah ini memperkenalkan teknologi pengembangan aplikasi enterprise terkini. Dimulai dari konsep pengembangan aplikasi, framework pengembangan terbaru, penggunaan database dan studi kasus yang dituangkan dalam tugas proyek berkelompok.",
+    "code": "CSIM603026",
+    "sks": 4,
+    "depedencies": [
+      "Pemrograman Berbasis Platform",
+      "Struktur Data dan Algoritma",
+      "Basis Data"
+    ]
+  },
+  {
+    "ltitle": "Basis Data",
+    "description": "Mata kuliah ini membahas konsep dasar dari manajemen database yang mencakup aspek pemodelan dan desain, bahasa dan fasilitas, implementasi dan penggunaan database. Topik yang diajarkan meliputi: arsitektur dan konsep sistem manajemen basis data (DBMS), struktur dan organisasi file, indexing, pemodelan data menggunakan model entity-relationship, pemodelan data menggunakan model relasional, bahasa kueri formal, aljabar relasional, basisdata berorientasi obyek, SQL dan QBE, functional dependency, 108  normalisasi basis data relasional, algoritma dan proses desain basis data relasional, pemrosesan serta optimasi kueri, transaksi, kendali konkurensi, pemulihan basis data serta basis data client-server",
+    "code": "CSGE602070",
+    "sks": 4,
+    "depedencies": [
+      "Dasar-Dasar Pemrograman 2"
+    ]
+  },
+  {
+    "ltitle": "Basis Data Lanjut",
+    "description": "Tujuan kuliah ini adalah untuk memperkenalkan mahasiswa terhadap teknik, metode terkini dan hasil dari area sistem basis data dan manajemen data. Secara umum, mahasiswa akan mempelajari topik seputar query planning and optimization; transaction processing and concurrency control; big data management; data warehousing and OLAP; theory of databases;",
+    "code": "CSCE604174",
+    "sks": 3,
+    "depedencies": [
+      "Basis Data"
+    ]
+  },
+  {
+    "ltitle": "Bioinformatika",
+    "description": "Mata kuliah ini memperkenalkan peserta kuliah terhadap sumber daya yang dibutuhkan untuk menerapkan berbagai pendekatan kecerdasan buatan untuk menghasilkan informasi pada aplikasi biologi seperti: fungsi gen, struktur protein dan evolusi molekular. Peserta akan diajarkan metode untuk penambangan serta analisa data untuk melakukan pencocokan sekuen, pencarian kemiripan, analisa filogenetik, pencarian gen serta prediksi struktur protein",
+    "code": "CSCE604130",
+    "sks": 3,
+    "depedencies": [
+      "Struktur Data dan Algoritma",
+      "Statistika dan Probabilitas"
+    ]
+  },
+  {
+    "ltitle": "Business Process Management",
+    "description": "Mata kuliah ini mendalami cara-cara di mana proses bisnis dapat dianalisis, didesain ulang, dan ditingkatkan. Proses bisnis adalah serangkaian aktivitas yang bersama-sama mewujudkan tujuan bisnis dalam lingkungan organisasi dan teknis. Proses ini berlangsung dalam satu organisasi tetapi mungkin perlu berinteraksi dengan proses di organisasi lain. Manajemen proses bisnis atau business process management (BPM) berkaitan dengan konsep, metode, dan teknik yang mendukung desain, administrasi, konfigurasi, penetapan, dan analisis proses bisnis. BPM berkaitan dengan representasi eksplisit dari proses - setelah didefinisikan, proses dapat dianalisis, ditingkatkan, dan diberlakukan. Perangkat lunak berupa sistem manajemen proses bisnis dapat digunakan untuk mengkoordinasikan kegiatan proses bisnis. Dengan mengikuti mata kuliah ini Anda akan dapat memahami proses bisnis dari perspektif manajemen umum, dan mempelajari alat, kerangka kerja analitis, dan prinsip umum untuk mengelola proses bisnis. Mata kuliah ini akan menggabungkan komponen laboratorium menggunakan perangkat lunak BPM.",
+    "code": "CSIE604262",
+    "sks": 3,
+    "depedencies": [
+      "Analisis dan Perancangan Sistem Informasi (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Dasar-Dasar Arsitektur Komputer",
+    "description": "Melalui kuliah ini mahasiswa/i diharapkan dapat mengerti komponen dasar dari suatu sistem komputer dan bagaimana komponen-komponen ini bekerja sama untuk menghasilkan fungsi yang diinginkan oleh pemakai komputer. Kuliah akan terbagi menjadi 2 bagian. Bagian pertama dari kuliah ini akan mempelajari tentang Sistem Digital, dan bagian kedua akan mempelajari tentang Arsitektur Komputer. Topik yang dicakup pada Sistem Digital adalah mereview representasi biner; merancang dan menganalisa rangkaian kombinasi; merancang dan menganalisa rangkaian sekuensial; komponen dasar lainnya seperti counter, register dan memori. Topik yang dibahas pada Arsitektur Komputer adalah: bahasa assembly, bagian-bagian dari suatu processor, siklus kerja processor dan memory hierarchy.",
+    "code": "CSIM601251",
+    "sks": 4,
+    "depedencies": [
+      "-"
+    ]
+  },
+  {
+    "ltitle": "Dasar-Dasar Audit SI",
+    "description": "Kuliah ini membahas 5W + 1H (what, who, where, when, why dan how) Audit Sistem Informasi. Mulai dari pembahasan definisi audit sistem informasi, urutan proses audit dan pembuatan laporanlaporan yang dibutuhkan selama kegiatan audit. Selain itu akan diajarkan, cara melakukan audit beberapa area Sistem informasi seperti IT Governance, Aplikasi, Data Center, Sistem Operasi, Jaringan, Database, Disaster Recovery, IT Outsourcing, Keamanan sistem dan jaringan dan Cloud Computing. Metodologi, Framework, Hukum dan Regulasi yang berkaitan dengan audit Sistem Informasi juga dibahas pada kuliah ini.",
+    "code": "CSIE604181",
+    "sks": 3,
+    "depedencies": [
+      "Jaringan Komunikasi Data (lulus)",
+      "Basisdata (lulus)",
+      "Prinsip-Prinsip Sistem Informasi (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Dasar-Dasar Pemrograman 1",
+    "description": "Mata kuliah ini bertujuan untuk mengajarkan konsep-konsep dasar serta teknik untuk membuat program komputer menggunakan Bahasa Pemrograman Python. Mata kuliah ini diajarkan melalui kombinasi kuliah tatap muka serta sesi latihan pemrograman dengan setiap peserta kuliah mengakses PC yang tersambung ke Internet. Mata kuliah ini memraktekkan prinsip pemrograman yang tidak bisa diajarkan dalam cara yang sepenuhnya linier, namun topik-topik awal tetap dibahas lagi di belakang dengan tingkat kedalaman yang lebih canggih. Bahasa yang digunakan adalah Phyton.",
+    "code": "CSGE601020",
+    "sks": 4,
+    "depedencies": [
+      "-"
+    ]
+  },
+  {
+    "ltitle": "Dasar-Dasar Pemrograman 2",
+    "description": "Mata kuliah ini merupakan lanjutan dari DasarDasar Pemrograman 1, yang berfokus pada paradigma pengembangan perangkat lunak skala medium, terutama dengan paradigma pemrograman berorientasi obyek. Bahasa pemrograman yang digunakan adalah Java.",
+    "code": "CSGE601021",
+    "sks": 4,
+    "depedencies": [
+      "Dasar-Dasar Pemrograman 1"
+    ]
+  },
+  {
+    "ltitle": "Data dan Information Management",
+    "description": "Mata kuliah ini memperkenalkan konsep-konsep inti dalam manajemen data dan informasi, mulai dari mengidentifikasi kebutuhan informasi organisasi hingga merancang database fisik untuk database relasional berdasarkan Siklus Hidup Pengembangan Sistem Database. Mata kuliah ini juga membantu mahasiswa memahami konsep 119  dan metodologi desain database dan memberikan pengetahuan mahasiswa terkait desain database.",
+    "code": "CSIE604272",
+    "sks": 3,
+    "depedencies": [
+      "Prinsip-Prinsip Sistem Informasi (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Desain dan Analisis Algoritma",
+    "description": "Kuliah ini mengajarkan bagaimana merancang dan menganalisa sebuah algoritma dalam menyelesaikan persoalan-persoalan yang membutuhkan pemrograman. Dua isu utama yang ditekankan dalam merancang dan menganalisa algoritma tersebut adalah aspek kebenaran (correctness) dan kompleksitas (complexity). Berbagai teknik dan pendekatan akan dibahas, antara lain dynamic programming, greedy algorithm, backtracking, graph algorithms, approximation algorithms, dan lain-lain",
+    "code": "CSCM604142",
+    "sks": 4,
+    "depedencies": [
+      "Struktur Data dan Algoritma"
+    ]
+  },
+  {
+    "ltitle": "E-Dagang",
+    "description": "Kuliah ini akan memperkenalkan mahasiswa dengan prinsip-prinsip dasar perdagangan elektronis, dari perspektif bisnis. Kuliah ini juga memberikan gambaran tentang topik bisnis dan teknologi, seperti internet retailing dan berbagai model e-commerce. Selain itu, beberapa isu utama yang terkait dengan e-commerce seperti: keamanan, privasi, hak kekayaan intelektual, otentikasi, enkripsi, dan hukum juga akan dieksplorasi. 122",
+    "code": "CSIE604160",
+    "sks": 3,
+    "depedencies": [
+      "Prinsip-Prinsip Sistem Informasi"
+    ]
+  },
+  {
+    "ltitle": "E-Government",
+    "description": "Mata kuliah ini dirancang untuk membantu siswa menemukan, memeriksa, dan menjelaskan potensi manfaat dan keterbatasan mengelola dan memberikan layanan publik dalam lingkungan yang ditandai dengan teknologi, informasi dan komunikasi (TIK) yang semakin canggih. Untuk mempersiapkan siswa melakukan karya inovatif di sektor publik di era informasi, mereka dapat merancang, membuat, dan mengintegrasikan berbagai strategi egovernment dengan mengintegrasikannya dengan pendekatan e-government terbaru, seperti Manajemen Hubungan Pelanggan, Kerangka Kerja Interoperabilitas, Web 2.0 dan Komputasi Awan.",
+    "code": "CSIE604281",
+    "sks": 3,
+    "depedencies": [
+      "Prinsip-Prinsip Sistem Informasi (Lulus)"
+    ]
+  },
+  {
+    "ltitle": "Enterprise Architecture",
+    "description": "Mata kuliah Enterprise Architecture (EA) atau Arsitektur Perusahaan dimaksudkan untuk menjadi paparan awal untuk arsitektur perusahaan, konsep EA, dan fondasi dan untuk mengembangkan pemahaman tentang bagaimana EA dapat menjadi perbedaan antara bisnis yang sukses dan skalabel versus bisnis yang chaotic, terbatas, dan stagnan. Mata kuliah ini menawarkan jalur pengantar bagi mereka yang baru mengenal EA, serta pebisnis fungsional yang menginginkan gambaran luas tentang EA dan manfaatnya. Mata kuliah ini menginformasikan siswa mengenai kerangka kerja EA (TOGAF, Zachman, EA3), pendekatan kerangka kerja, dan pengoptimalan yang bila diterapkan menangkap struktur internal bisnis saat ini dan masa depan dengan menyelaraskannya dengan strategi perusahaan. Mata kuliah ini berkembang dari pandangan bisnis EA, menjadi aktivitas transisi yang memanfaatkan elemen kerangka kerja EA standar, dan ditutup dengan nilai yang dibawa EA ke aktivitas transformasi teknologi dan pengelolaan melalui perkembangan yang mengganggu di pasar.  127",
+    "code": "CSIE604171",
+    "sks": 3,
+    "depedencies": [
+      "Manajemen Sistem Informasi (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Ethical Hacking",
+    "description": "Mata kuliah ini membahas tentang teknik-teknik eksploitasi program binary. Topik-topik yang akan dibahas adalah sebagai berikut: konsep dasar memori dan eksekusi program, bahasa assembly, C, debugger/dissassembler/decompiler, stack overflow, heap-based overflow, teknikteknik pertahanan dan contoh kerentanan di dunia nyata.",
+    "code": "CSCE604258",
+    "sks": 4,
+    "depedencies": [
+      "Dasar-Dasar Pemrograman Organisasi Komputer"
+    ]
+  },
+  {
+    "ltitle": "Financial Technology",
+    "description": "“FinTech” mengacu pada inovasi sektor keuangan yang melibatkan model bisnis berbasis teknologi yang dapat memfasilitasi disintermediasi, merevolusi cara perusahaan yang ada menciptakan dan memberikan produk dan layanan, mengatasi tantangan privasi, peraturan dan penegakan hukum, menyediakan gerbang baru untuk kewirausahaan, dan peluang benih untuk pertumbuhan inklusif. Mata kuliah ini memberikan pengantar terhadap FinTech.",
+    "code": "CSIE604173",
+    "sks": 3,
+    "depedencies": [
+      "Sistem Informasi Keuangan dan Akuntansi (Lulus)"
+    ]
+  },
+  {
+    "ltitle": "Forensik Digital",
+    "description": "Memberikan pemahaman tentang proses proses dalam cyber forensic dan kaitannya dengan bidang forensic yang lain. Menjelaskan tentang teknologi yang digunakan dalam bidang ini serta tantangannya. Perancangan penggunaan forensic di korporasi maupun dalam pemerintahan. Selain itu akan dibahas juga mengenai pencegahan fraud, serta topik topik penelitian dalam bidang ini. 132",
+    "code": "CSCE604156",
+    "sks": 4,
+    "depedencies": [
+      "Jaringan Komputer (lulus) dan sistem operasi (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Game Development",
+    "description": "Mata kuliah ini membahas perancangan dan implementasi videogame dari berbagai sudut pandang. Pembahasan isu difokuskan pada filosofi game design seperti elements, themes, mechanics, balance, story, worlds, aesthetics, dst. Namun aspek teknis seperti teknologi, platform, dan tool pengembangan game juga akan dibahas. Peserta kuliah akan dilatih melalui beberapa tutorial dan  133  tugas untuk merancang dan mengembangkan game sederhana, dan juga harus mengerjakan proyek kelompok berupa perancangan dan pengembangan sebuah game yang mengikuti keseluruhan siklus proses game development.",
+    "code": "CSCE604121",
+    "sks": 3,
+    "depedencies": [
+      "Struktur Data dan Algoritma"
+    ]
+  },
+  {
+    "ltitle": "Grafika Komputer",
+    "description": "Mata kuliah ini meliputi penjelasan sistem grafika, algoritma penanganan elemen-elemen dasar grafika, sistem 2D dan 3D, model iluminasi, model obyek, kurva dan permukaan. Peserta kuliah melatih pemrograman melalui tugas menggunaka bahasa OpenGL, baik secara perorangan maupun secara kelompok  135",
+    "code": "CSCE604241",
+    "sks": 3,
+    "depedencies": [
+      "Aljabar Linier",
+      "Struktur Data dan Algoritma"
+    ]
+  },
+  {
+    "ltitle": "ICT for Development",
+    "description": "Mata kuliah ini akan memperkenalkan siswa pada debat dan praktik seputar penggunaan Teknologi Informasi dan Komunikasi (TIK) dengan fokus pada negara-negara Global South. Ini akan memanfaatkan sumber daya dari Antropologi, Studi Pembangunan, Ekonomi, Geografi, dan Sejarah untuk memeriksa kerangka teoritis dan konseptual yang mendukung pembangunan - sebagai praktik, sebagai subjek penelitian, dan sebagai wacana. Mata kuliah ini juga akan banyak mengambil studi kasus untuk landasan teori dalam praktek dan akan memperkenalkan siswa ke berbagai proyek yang telah menggunakan TIK sebagai solusi untuk masalah di Afrika, Asia dan Amerika.",
+    "code": "CSIE604279",
+    "sks": 3,
+    "depedencies": [
+      "Prinsip-Prinsip Sistem Informasi (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Integrasi Aplikasi Perusahaan",
+    "description": "Mata kuliah ini mengantarkan mahasiswa dalam memahami konsep dan tehnik integrasi antar aplikasi yang dapat digunakan di organisasi. Mata kuliah ini juga akan memperkenalkan mahasiswa terkait teknologi yang umum digunakan dalam mengintegrasikan aplikasi seperti teknologi XML, midlleware dan lain sebagainya. Mata kuliah ini disiapkan untuk mahasiswa yang akan bekerja sebagai konsultan TI yang berperan sebagai arsitek sistem di organisasi. Aktualisasi mata kuliah ini akan dilakukan jika terdapat tren teknologi terbaru terkait konsep dan metode integrasi antar aplikasi.  139",
+    "code": "CSIE604275",
+    "sks": 3,
+    "depedencies": [
+      "Jaringan Komunikasi Data (lulus)",
+      "Perancangan dan Pemrograman Web (pernah mengambil/mengambil bersamaan)",
+      "Basisdata (pernah mengambil/mengambil bersamaan)"
+    ]
+  },
+  {
+    "ltitle": "IS Strategy,",
+    "description": "Mata kuliah ini membahas perawatan komprehensif tren saat ini dan isu-isu manajemen yang terkait dengan sistem informasi dalam organisasi lingkup lokal, nasional, dan internasional. Isu dan teknik perencanaan sistem informasi, administrasi, manajemen sumber daya, dan adopsi teknologi baru. Studi kasus digunakan selama mata kuliah. Setelah menyelesaikan mata kuliah ini, siswa diharapkan telah mengembangkan pemahaman yang lebih dalam tentang isu-isu strategis utama yang dihadapi manajer yang ingin menerapkan dan mengeksploitasi teknologi dan sistem informasi perusahaan, dan peran penting kepemimpinan TI dan bisnis yang efektif dalam memastikan pengiriman nilai dari investasi TI.",
+    "code": "CSIE604162",
+    "sks": 3,
+    "depedencies": [
+      "Manajemen Sistem Informasi (lulus)"
+    ]
+  },
+  {
+    "ltitle": "IT Governance",
+    "description": "Control Objectives for Information and Related Technology (COBIT) adalah kerangka kerja tata kelola TI dan perangkat pendukung yang memungkinkan manajer menjembatani kesenjangan antara persyaratan kontrol, masalah  143  teknis, dan risiko bisnis. COBIT memungkinkan pengembangan kebijakan yang jelas dan praktik yang baik untuk kontrol TI di seluruh organisasi untuk meningkatkan nilai yang diperoleh dari TI, memungkinkan penyelarasan dan menyederhanakan implementasi kerangka kerja COBIT. Val IT adalah kerangka kerja tata kelola yang dapat digunakan untuk menciptakan nilai bisnis dari investasi TI. Ini terdiri dari seperangkat prinsip panduan dan sejumlah proses dan praktik terbaik yang selanjutnya didefinisikan sebagai seperangkat praktik manajemen utama untuk mendukung dan membantu manajemen eksekutif dan dewan di tingkat perusahaan.",
+    "code": "CSIE604182",
+    "sks": 3,
+    "depedencies": [
+      "Manajemen Sistem Informasi (Lulus)"
+    ]
+  },
+  {
+    "ltitle": "Jaringan Komputer",
+    "description": "Mata kuliah ini memperkenalkan jaringan komputer, dan membekali peserta dengan pemahaman terhadap aplikasi-aplikasi jaringan komputer serta bagaimana cara kerjanya pada lapisan-lapisan bawah",
+    "code": "CSCM603154",
+    "sks": 4,
+    "depedencies": [
+      "Sistem Operasi",
+      "Dasar-Dasar Pemrograman 1"
+    ]
+  },
+  {
+    "ltitle": "Jaringan Komunikasi Data",
+    "description": "Mata kuliah ini memperkenalkan model referensi ISO/OSI dan TCP/IP untuk menganalisis, merancang, mengimplementasikan, dan mengelola jaringan komunikasi data",
+    "code": "CSIM603154",
+    "sks": 3,
+    "depedencies": [
+      "Dasar-Dasar Pemrograman 1 (lulus)",
+      "Sistem Operasi untuk Sistem Informasi (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Jejaring Semantik",
+    "description": "Mata kuliah ini membahas dasar-dasar teknologi jejaring semantik (Semantic Web) meliputi (i) bahasa representasi pengetahuan, baik pada aspek pemodelan data berbasis graf menggunakan RDF, maupun aspek skema dan terminologis menggunakan bahasa ontologi OWL; (ii) teknikteknik untuk memperkaya data dan informasi dengan metadata dan meta-informasi sehingga memungkinkan data dan pengetahuan untuk dibagi (sharing), dipublikasikan secara terbuka (open publishing), digunakembalikan (reuse), dan diintegrasikan dengan data dari sumber-sumber lain (termasuk sumber-sumber yang tersedia secara terbuka di Web) dengan format yang standar untuk Web; (iii) teknik-teknik kueri (query) dan penalaran otomatis yang dapat diterapkan pada data dan pengetahuan yang sudah direpresentasikan dengan bahasa representasi pengetahuan tersebut di atas sehingga mesin atau sistem komputer dapat mengungkapkan (menjadikan eksplisit) informasi dan pengetahuan yang terkandung secara implisit di dalam data dan pengetahuan yang sudah dimodelkan menggunakan komponen-komponen teknologi semantik; dan (iv) teknik-teknik penyimpanan data semantik dalam triple store.",
+    "code": "CSCE604131",
+    "sks": 3,
+    "depedencies": [
+      "Matematika Diskret 1 dan Matematika Diskret 2"
+    ]
+  },
+  {
+    "ltitle": "Kalkulus 1",
+    "description": "Matematika Dasar 1 merupakan mata ajaran wajib di Fasilkom dengan materi utama Kalkulus Dasar. Ada dua masalah dasar dalam Kalkulus, yaitu masalah garis singgung dan luas. Masalah garis singgung adalah bagaimana menentukan gradien garis singgung di suatu titik pada kurva. Sedangkan masalah luas adalah bagaimana menentukan luas daerah bidang diantara suatu kurva sumbu-x pada interval [a, b]. Kedua masalah tersebut melibatkan grafik fungsi bernilai nyata y = f(x), dan jawabannya merupakan limit perubahan dan jumlahan, yang kemudian kita kenal sebagai turunan dan integral. Oleh karena itu, Kalkulus sering disebut sebagai ilmu yang mempelajari limit. Jawaban dua masalah geometris tersebut merupakan kunci dari berbagai masalah terapan dalam ilmu pengetahuan dan teknologi.",
+    "code": "CSGE601012",
+    "sks": 3,
+    "depedencies": [
+      "-"
+    ]
+  },
+  {
+    "ltitle": "Kalkulus 2",
+    "description": "Mata kuliah ini mengajarkan topik-topik lanjut dari Kalkulus sebagai berikut: aplikasi integral, bentuk tak tentu dan integral tak wajar, barisan dan deret tak hingga, geometri dalam ruang dan vektor, fungsi peubah banyak, integral lipat",
+    "code": "CSCM601213",
+    "sks": 3,
+    "depedencies": [
+      "Kalkulus 1 152"
+    ]
+  },
+  {
+    "ltitle": "Kerja Praktik",
+    "description": "Mata kuliah ini memberikan kesempatan kepada mahasiswa untuk memperoleh pengalaman dalam penyelesaian permasalahan yang terdapat pada sebuah organisasi menggunakan Teknologi  153  Informasi dan Komunikasi (TIK) dengan cara terjun secara langsung ke dunia kerja",
+    "code": "CSGE604098",
+    "sks": 3,
+    "depedencies": [
+      "100 SKS"
+    ]
+  },
+  {
+    "ltitle": "Kecerdasan Artifisial dan Sains Data Dasar",
+    "description": "Mata kuliah ini memperkenalkan konsep-konsep dasar kecerdasan artifisial (artificial intelligence) dan sains data (data science), serta berbagai pendekatan dan teknik-teknik dasar yang dapat dipergunakan untuk memecahkan berbagai permasalahan di bidang kecerdasan artifisial dan sains data. Mata kuliah ini memberikan eksposisi pertama kepada para peserta terhadap paradigma kecerdasan artifisial non-simbolik yang mencakup berbagai teknik pemelajaran mesin (machine learning) yang juga merupakan bagian inti dalam proses sains data untuk melakukan ekstraksi 154  pengetahuan dari data yang tersedia. Cakupan mata kuliah ini berkisar pada pengertian dasar kecerdasan artifisial, pemelajaran mesin dan sains data, serta teknik-teknik klasifikasi, regresi, dan clustering tradisional.",
+    "code": "CSGE603130",
+    "sks": 4,
+    "depedencies": [
+      "Statistika dan Probabilitas (lulus)",
+      "Aljabar linear (lulus)",
+      "Struktur Data dan Algoritma (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Knowledge-Based AI",
+    "description": "Mata kuliah ini memperkenalkan konsep-konsep serta teknik-teknik dasar kecerdasan artifisial (artificial intelligence) yang berbasis knowledge, alih-alih berbasis data-drive. Peserta mata kuliah ini akan dibekali dengan dasar pemahaman teoritis dan keterampilan praktis untuk menyelesaikan permasalahan kecerdasan artifisial dengan pendekatan berbasis knowledge.",
+    "code": "CSCE604136",
+    "sks": 4,
+    "depedencies": [
+      "Statistika dan Probabilitas",
+      "Matematika Diskret 2"
+    ]
+  },
+  {
+    "ltitle": "Komputasi Awan",
+    "description": "Kuliah ini berisi konsep dan penerapan infrastruktur teknologi informasi berbasis Cloud Computing. Topil yang diajarkan dalam kuliah ini meliputi: IaaS (Infrastructure as a Service), PaaS (Platform as a Service), SaaS (Software as a Service) dan teknologi pendukung terselenggaranya infrastruktur Cloud Computing seperti hypervisor, virtual server dan container. Tujuan kuliah ini untuk memberikan pengetahuan bagi mahasiswa dalam proses perancangan dan penerapan teknologi berbasis cloud computing serta dapat membantu mahasiswa dalam menggabungkan berbagai macam tools dan teknologi dalam melakukan implementasi infrastruktur berbasis cloud computing.",
+    "code": "CSCE604172",
+    "sks": 4,
+    "depedencies": [
+      "Jaringan Komputer (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Komputer dan Masyarakat",
+    "description": "Mata kuliah ini menimbulkan kesadaran dan kepekaan mahasiswa terhadap berbagai persoalan etika, sosial, dan ekonomi terkait penerapan teknologi komputer dalam kehidupan sehari-hari. Mahasiswa diharapkan mampu merespon positif terhadap masalah-masalah sosial yang ada dalam konteks disiplin ilmu komputer. Mahasiswa akan dihadapkan pada isu-isu yang berkaitan dengan teknologi informasi dan komputer, dan diharapkan mampu menganalisa isu tersebut dan memberikan solusi dari sudut pandang mereka sebagai mahasiswa ilmu komputer",
+    "code": "CSGE614093",
+    "sks": 3,
+    "depedencies": [
+      "Sarjana Reguler: 100 SKS (diutamakan mahasiswa sem. 7 dan 8); Sarjana Kelas Internasional: 48 SKS"
+    ]
+  },
+  {
+    "ltitle": "Komunikasi Bisnis dan Teknis",
+    "description": "Mata kuliah ini berfokus pada strategi dan keterampilan untuk menulis dan berbicara yang efektif dalam organisasi bisnis. Mata kuliah ini akan mengajarkan siswa teknik-teknik dasar komunikasi yang berguna dalam konteks sehari-hari organisasi/bisnis. 160",
+    "code": "CSIM603291",
+    "sks": 3,
+    "depedencies": [
+      "-"
+    ]
+  },
+  {
+    "ltitle": "Konfigurasi ERP",
+    "description": "Mata kuliah ini bertujuan untuk memberikan pengetahuan tentang fungsional dan teknis tentang Enterprise Resource Planning (ERP) sebagai solusi IS yang terintegrasi bagi perusahaan dan metode implementasinya. ERP yang dibahas pada mata kuliah ini secara khusus adalah Odoo. Fungsional dari Odoo yang dimaksud adalah bagaimana Odoo berperan sebagai aplikasi ERP. Sedangkan untuk bagian teknis, mata kuliah ini akan menjelaskan bagaimana cara mengembangkan modul / fitur yang dapat diimplementasikan pada Odoo lewat metode programming.",
+    "code": "CSIE604266",
+    "sks": 3,
+    "depedencies": [
+      "Dasar-Dasar Perusahaan"
+    ]
+  },
+  {
+    "ltitle": "Kriptografi dan Keamanan Informasi",
+    "description": "Matakuliah ini mengajarkan kriptograﬁ dan keamanan informasi yang meliputi dasar-dasar  163  matematik, algoritma, protokol, security engineering, beserta aplikasi-aplikasinya dalam berbagai aspek.",
+    "code": "CSCE604243",
+    "sks": 4,
+    "depedencies": [
+      "Jaringan Komputer",
+      "Statistika dan Probabilitas",
+      "Matematika Diskret 1",
+      "Matematika Diskret 2"
+    ]
+  },
+  {
+    "ltitle": "Layanan dan Aplikasi Web",
+    "description": "Mata kuliah ini membahas pengembangan aplikasi dan layanan perangkat lunak yang menggunakan teknologi web terkini. Topik-topik yang dibahas meliputi: review singkat mengenai standar-standar HTML dan XML, teknologi web service berbasis Servlet, Tomcat, JSP, isu teknis seperti cookies dan session, SQL, JDBC, DAOs, JavaBeans dan BeanFactories, paradigma MVC (Model View Controller), JSP Standard Tag Library, Security (Including SSL), Web Service (SOAP/WSDL/UDDI), Frameworks, Internationalization, Scalability dan Performance Issues",
+    "code": "CSCE604271",
+    "sks": 3,
+    "depedencies": [
+      "Jaringan Komputer",
+      "Perancangan dan Pemrograman Web 164"
+    ]
+  },
+  {
+    "ltitle": "Logika Komputasional",
+    "description": "Seperti halnya Logika Matematik, Logika Komputasional berkaitan dengan syntax, semantics, correctness dan completeness of reasoning. Tetapi Logika Komputasional juga sangat memperhatikan aspek efisiensi agar automated reasoning menjadi berguna secara praktis. Logika Komputasional memegang peranan penting dalam berbagai bidang Ilmu Komputer, antara lain semantic web, verifikasi hardware/software, teknologi bahasa pemrograman, basisdata, dan KRR (knowledge representation and reasoning).",
+    "code": "CSCE604144",
+    "sks": 3,
+    "depedencies": [
+      "Sistem Cerdas  165"
+    ]
+  },
+  {
+    "ltitle": "Manajemen Bisnis",
+    "description": "Kuliah ini bertujuan untuk meningkatkan pengetahuan dan kemampuan mahasiswa terkait aspek bisnis dan manajemen di dalam organisasi. Melalui contoh dan studi kasus, mahasiswa akan memahami konsep dasar organisasi bisnis serta membangun keterampilan analisis manajerial yang dibutuhkan lulusan sistem informasi. Bahasa yang akan digunakan pada mata kuliah ini adalah kombinasi antara Bahasa Indonesia dan Bahasa Inggris. Mayoritas bahan ajar dan ujian tertulis akan menggunakan Bahasa Inggris.",
+    "code": "CSIM601190",
+    "sks": 3,
+    "depedencies": [
+      "-"
+    ]
+  },
+  {
+    "ltitle": "Manajemen Hubungan Pelanggan",
+    "description": "Kuliah ini fokus pada konsep dan teknologi dari Manajemen Hubungan Pelanggan sebagai sebuah solusi bisnis enterprise-wide yang lengkap. Kuliah ini cocok bagi mahasiswa berencana untuk menjadi konsultan TI. Kuliah ini akan mengajarkan mahasiswa prinsip-prinsip dasar, implementasi dan praktik dari Manajemen Hubungan Pelanggan untuk meningkatkan capaian dari pemasaran, penjualan dan layanan yang mencakup fase-fase siklus hidup pelanggan yaitu customer acquisition, retention dan development, yang pada saat yang sama juga mendukung tujuan organisasi yang lebih besar/luas.",
+    "code": "CSIE604163",
+    "sks": 3,
+    "depedencies": [
+      "Sistem-Sistem Perusahaan (pernah mengambil)"
+    ]
+  },
+  {
+    "ltitle": "Manajemen Infrastruktur TI",
+    "description": "Mata kuliah ini memperkenalkan infrastruktur Teknologi Informasi (TI) modern dan aktivitasaktivitas yang diperlukan untuk pengelolaan operasional infrastruktur tersebut",
+    "code": "CSIE604276",
+    "sks": 3,
+    "depedencies": [
+      "Jaringan Komunikasi Data",
+      "Basis Data"
+    ]
+  },
+  {
+    "ltitle": "Manajemen Layanan TI",
+    "description": "Mata kuliah ini berfokus pada penyampaian dan dukungan layanan TI yang sesuai dengan kebutuhan bisnis organisasi",
+    "code": "CSIE604378",
+    "sks": 3,
+    "depedencies": [
+      "1. Prinsip-Prinsip Sistem Informasi (Lulus) 2. Sistem-Sistem Perusahaan (Lulus) 3. Analisis dan Perancangan Sistem Informasi (Lulus)"
+    ]
+  },
+  {
+    "ltitle": "Manajemen Pengetahuan",
+    "description": "Kuliah ini mengajarkan teori dan penerapan manajemen pengetahuan yang mencakup teknologi dan kakas yang digunakan dalam mengelola pengetahuan yang terintegrasi dengan kebutuhan pengelolaan pengetahuan dalam sebuah organisasi secara efektif. Dalam kuliah ini juga dibahas karakteristik, representasi komputer, akses dan utilisasi informasi versus pengetahuan dalam konteks sumber daya manusia. 172",
+    "code": "CSIE604180",
+    "sks": 3,
+    "depedencies": [
+      "-"
+    ]
+  },
+  {
+    "ltitle": "Manajemen Proyek",
+    "description": "Mata kuliah ini berfokus pada standar pengetahuan yang dibutuhkan oleh Project Management Institute (PMI), yang merupakan organisasi sertifikasi terdepan di dunia untuk para profesional di semua disiplin Manajemen Proyek. Mata kuliah ini juga akan memperluas pengetahuan dan keterampilan dalam manajemen proyek TI untuk sistem perusahaan, dan akan memberikan  Teknologi  Informasi  Informasi  (lulus),  174  kesempatan bagi mahasiswa untuk belajar bagaimana praktik dan prosedur yang digunakan dalam organisasi. Fokus khusus dari mata kuliah ini adalah bagaimana seorang manajer proyek bisa mengendalikan semua batasan dalam pelaksanaan proyek, baik dalam hal kapasitas staf, jadwal pengembangan sistem, biaya, perkiraan upaya, dan kualitas, serta bagaimana batasan-batasan ini terkait dengan konsep PMI®, dan bagaimana pengelolaannya sebaik-baiknya dalam pelaksanaan proyek dari berbagai skala.",
+    "code": "CSIM603189",
+    "sks": 3,
+    "depedencies": [
+      "Prinsip-Prinsip Sistem manajemen Bisnis (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Manajemen Rantai Suplai",
+    "description": "Mata kuliah ini berfokus pada metodologi dan praktik Manajemen Rantai Suplai sebagai perusahaan solusi bisnis yang lengkap. Rantai suplai terkait dengan integrasi yang efisien dari pemasok, pabrik, gudang dan toko sehingga produk didistribusikan ke pelanggan dalam jumlah yang tepat dan pada waktu yang tepat. 176  Salah satu tujuan utama dari Manajemen Rantai Suplai adalah untuk meminimalkan biaya rantai suplai dalam memberikan berbagai layanan. Kuliah ini cocok bagi siswa berencana untuk menjadi konsultan TI, perdagangan atau manufaktur perusahaan. Selain itu, kuliah ini akan mengajarkan siswa konsep dasar dan implementasi Manajemen Rantai Suplai dengan menggambarkan kompleksitas perencanaan kolaboratif dalam rantai pasokan.",
+    "code": "CSIE604165",
+    "sks": 3,
+    "depedencies": [
+      "Sistem-Sistem Perusahaan (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Manajemen Sistem Informasi",
+    "description": "Mata kuliah ini mengajarkan mahasiswa terkait aspek dan pengetahuan mengelola sistem informasi dalam suatu organisasi bisnis, baik dari aspek strategis maupun teknis. Mata kuliah ini merupakan jembatan antara dunia kampus dengan dunia kerja.",
+    "code": "CSIM604182",
+    "sks": 3,
+    "depedencies": [
+      "Prinsip-Prinsip Sistem Informasi (lulus)",
+      "Sistem Operasi untuk Sistem Informasi (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Matematika Diskret 1",
+    "description": "Mata ajar ini memperkenalkan topik-topik dasar matematika diskret, antara lain logika, struktur diskret dasar, dan analisis kombinatorik, yang menjadi dasar bagi topik-topik lanjutan dan aplikasinya pada ilmu komputer/sistem informasi.",
+    "code": "CSGE601010",
+    "sks": 3,
+    "depedencies": [
+      "-"
+    ]
+  },
+  {
+    "ltitle": "Matematika Diskret 2",
+    "description": "Mata kuliah ini merupakan kelanjutan dari mata kuliah Matematika Diskret 1 dan memberikan landasan teoritis untuk ilmu komputer.",
+    "code": "CSGE601011",
+    "sks": 3,
+    "depedencies": [
+      "-"
+    ]
+  },
+  {
+    "ltitle": "181  Metodologi Penelitian dan Penulisan Ilmiah",
+    "description": "Mata kuliah ini berfokus pada metodologi penelitian untuk Sistem Informasi (SI) dan teknologi informasi (TI). mata kuliah ini memberikan landasan sikap mahasiswa agar bisa berfikir secara ilmiah. mata kuliah ini menekankan mahasiswa agar mampu berpikir kritis dalam proses ilmiah. mata kuliah ini akan berkaitan dengan bagaimana melakukan penelitian di bidang SI/TI, sehingga mahasiswa bisa mengelola sumber daya penelitian secara optimal. Selain itu, mata kuliah ini juga akan mengeksplorasi peran penelitian sebagai fungsi utama dalam mendorong pemahaman dan pembentukan pengetahuan baru dalam bidang SI/TI. mata kuliah ini akan mencakup topik-topik seperti: penalaran untuk melakukan penelitian, memahami proses penelitian, mengeksplorasi berbagai pendekatan untuk melakukan penelitian termasuk penggunaan berbagai metode penelitian, menafsirkan hasil penelitian, dan penulisan laporan penelitian. Beberapa paradigma penelitian dan metode terkini akan disesuaikan dengan bidang SI/TI. Pendekatan dasar mata kuliah ini adalah agar mahasiswa mengerjakan tugas-tugas yang diberikan dan berlatih melakukan penelitian",
+    "code": "CSGE603291",
+    "sks": 3,
+    "depedencies": [
+      "-"
+    ]
+  },
+  {
+    "ltitle": "Pemelajaran Mesin",
+    "description": "Kuliah ini membahas dasar-dasar pemelajaran mesin (machine learning), yaitu teknik pengembangan perangkat lunak yang dapat menghasilkan model untuk menjelaskan suatu fenomena kompleks dengan cara mengamati sejumlah data. Metodemetode yang diajarkan berbasis pendekatan statistik untuk pengenalan pola, antara lain perceptron, support vector machines, hidden Markov models, expectation maximization, dan lain-lain",
+    "code": "CSCE604235",
+    "sks": 3,
+    "depedencies": [
+      "Sistem Cerdas"
+    ]
+  },
+  {
+    "ltitle": "Pemrograman Berbasis Platform",
+    "description": "Mata kuliah ini akan membahas pengembangan perangkat lunak pada berbagai macam platform. Materi yang dipelajari berhubungan dengan berbagai macam konsep dan peraturan pemrograman yang diterapkan pada suatu platform. Sebagai contoh pemrograman pada platform yang relevan saat ini adalah perangkat bergerak (mobile), web, robotik dan kecerdasan buatan, perangkat tertanam, dan gaming. Setiap platform memiliki karakteristik yang berbeda mulai dari keteraturan pola pemrograman, mekanisme pemrosesan, interaksi antar komponen/API/hardware, dan interaksi dengan pengguna yang diterapkan pada pemrograman highlevel High Level.",
+    "code": "CSGE602022",
+    "sks": 4,
+    "depedencies": [
+      "Dasar-Dasar Pemrograman 1"
+    ]
+  },
+  {
+    "ltitle": "Pemrograman Fungsional",
+    "description": "Tujuan dari mata kuliah ini adalah untuk memperkenalkan prinsip-prinsip pemrograman deklaratif, dalam hal ini dengan paradigma pemrograman fungsional. Mata kuliah ini juga memperkenalkan beberapa prinsip lanjutan dari pemrograman fungsional yang dimiliki oleh bahasa pemrograman yang digunakan. Perkuliahan akan diawali dengan memberikan dasar-dasar pemrograman fungsional, termasuk 186  type system, hingga higher order function. Pada paruh kedua perkuliahan akan didiskusikan isuisu terkini dari pemrograman fungsional dan penerapan pada sebuah permasalahan.",
+    "code": "CSCE604123",
+    "sks": 4,
+    "depedencies": [
+      "Struktur Data dan Algoritma"
+    ]
+  },
+  {
+    "ltitle": "Pemrograman Kompetitif",
+    "description": "Mata kuliah ini mempelajari berbagai algoritma dan struktur data tingkat lanjut. Algoritma dan struktur data ini diterapkan pada problem yang ditemukan dalam lomba-lomba pemrograman yang merupakan penerapan dalam problem nyata.",
+    "code": "CSCE604226",
+    "sks": 3,
+    "depedencies": [
+      "Struktur Data dan Algoritma (prasyarat mata kuliah ini juga bisa digantikan",
+      "dengan menunjukkan kemampuan menyelesaikan masalah dalam Struktur Data dan Algoritma)"
+    ]
+  },
+  {
+    "ltitle": "Pemrograman Lanjut",
+    "description": "Mata kuliah ini membahas topik lanjut pemrograman khususnya pemrograman skala besar yang menggunakan berbagai alat bantu maupun memanfaatkan library atau source code yang sudah dibuat sebelumnya. Peserta kuliah juga diajarkan terkait isu mengembangkan aplikasi yang berkualitas dengan penerapan pattern agar memiliki reusability yang baik. Peserta kuliah juga perlu dapat memanfaatkan semua sumber daya komputasi dengan optimal sesuai kebutuhan khususnya terkait concurrency dan isu-isu yang perlu diperhatikan dalam pengembangannya.",
+    "code": "CSCM602023",
+    "sks": 4,
+    "depedencies": [
+      "Dasar-Dasar Pemrograman 2",
+      "Pemrograman Berbasis Platform"
+    ]
+  },
+  {
+    "ltitle": "Pemrograman Logika",
+    "description": "Mata kuliah ini memperkenalkan prinsip-prinsip pemrograman berbasis logika formal (paradigma pemrograman logika) yang mencakup teori yang mendasari paradigma pemrograman logika dan aspek praktis pemrograman dengan menggunakan bahasa pemrograman Prolog. Penerapan aspek-aspek ini akan didemonstrasikan melalui pengembangan aplikasi dengan menggunakan Prolog atau ekstensinya. Di samping itu, mata kuliah ini juga membahas perkembangan terkini dari paradigma pemrograman logika.",
+    "code": "CSCE604222",
+    "sks": 4,
+    "depedencies": [
+      "Matematika Diskret Pemrograman 1"
+    ]
+  },
+  {
+    "ltitle": "Pemrograman Paralel",
+    "description": "Mata kuliah ini mencakup teori konkurensi dan paralelisme, sejarah mesin berkinerja tinggi, dan cara pemanfaatan fasilitas komputasi kinerja tinggi seperti komputasi pada Cluster dan GPU. Mahasiswa akan diajarkan teori mengenai paradigma pemrograman paralel, konsep mesin SIMD dan MIMD, serta isu-isu seperti shared memory, mutual exclusion, dan semaphores, dan juga dibekali dengan pengetahuan praktis mengenai standar-standar terkini seperti Open MP, CUDA, dst",
+    "code": "CSCE604129",
+    "sks": 4,
+    "depedencies": [
+      "Sistem Operasi",
+      "Aljabar Linier",
+      "Matematika Dasar 2",
+      "Dasar-dasar Pemrograman 2"
+    ]
+  },
+  {
+    "ltitle": "Pemrograman Sistem",
+    "description": "Mata kuliah ini akan mendalami konsep-konsep sebuah sistem operasi, khususnya GNU/Linux, dengan penekanan khusus pada kemampuan praktis untuk mengimplementasikan dan memodifikasi program di bawah lapisan aplikasi. Para peserta akan diperkenalkan pada berbagai lapisan implementasi dari sebuah sistem operasi, seperti pengelolaan proses, sistem berkas, IPC, soket jaringan, dan struktur kernel. Latihan dan tugas akan menggunakan bahasa C/C++, serta beberapa perangkat scripting untuk memanipulasi berkas",
+    "code": "CSCM603127",
+    "sks": 3,
+    "depedencies": [
+      "Sistem Operasi",
+      "Struktur Data dan Algoritma"
+    ]
+  },
+  {
+    "ltitle": "Penambangan Data",
+    "description": "Mata kuliah ini memperkenalkan konsep-konsep dasar serta masalah, metode, serta teknik dalam penambangan data",
+    "code": "CSCE604233",
+    "sks": 3,
+    "depedencies": [
+      "Basis Data",
+      "Kecerdasan Artifisial dan Sains Data Dasar"
+    ]
+  },
+  {
+    "ltitle": "Penambangan Data dan Inteligensia Bisnis",
+    "description": "Mata kuliah ini bertujuan membekali mahasiswa kemampuan bekerja dengan data dalam skala besar dan menguasai berbagai teknik untuk menilai informasi bisnis yang terkandung dalam data tersebut",
+    "code": "CSIE604271",
+    "sks": 3,
+    "depedencies": [
+      "Basis Data"
+    ]
+  },
+  {
+    "ltitle": "Pengajaran",
+    "description": "Mata kuliah ini membahas dasar-dasar pengajaran dan pembelajaran menggunakan teknologi komputer. Topik yang dibahas meliputi prinsip pembelajaran dasar, proses pembelajaran dan memori pada manusia, teori pembelajaran (cognitivism, behaviorism, dan constructivism), pembelajaran tatap muka vs. jarak jauh, konten multimedia, evaluasi berbagai sistem manajemen pembelajaran (learning management system atau LMS). Selain itu, dibahas pula isu-isu terkini dalam lingkungan pembelajaran berbasis komputer, seperti Massive Open Online Course (MOOC) dan personalized learning.",
+    "code": "CSCE604183",
+    "sks": 3,
+    "depedencies": [
+      "Perancangan dan Pemrograman Web"
+    ]
+  },
+  {
+    "ltitle": "Pengantar Keamanan Informasi",
+    "description": "Mata kuliah ini membahas mengenai keamanan komputer. Topik yang dibahas mencakup antara lain: Manajemen keamanan (informasi, kebijakan, prosedur), Manajemen resiko, Model dan tingkat keamanan pada jaringan, peralatan, aplikasi, serta kontrol akses dan keamanan fisik. Kuliah ini juga mencakup topik topik yang terkait dengan BCP dan DRP, serta investigasi kejahatan komputer (forensics)",
+    "code": "CSIE604177",
+    "sks": 3,
+    "depedencies": [
+      "Jaringan Komunikasi Data"
+    ]
+  },
+  {
+    "ltitle": "Pengantar Organisasi Komputer",
+    "description": "Mata kuliah ini mengajarkan dasar-dasar organisasi komputer sekuensial, yang terdiri dari komponen-komponen: input, output, memori, dan prosesor (kontrol dan datapath). Pemahaman akan konsep-konsep ini juga akan disampaikan melalui latihan pemrograman dengan bahasa tingkat rendah (low-level language) seperti MIPS dan AVR.",
+    "code": "CSCM601252",
+    "sks": 3,
+    "depedencies": [
+      "Pengantar Sistem Digital"
+    ]
+  },
+  {
+    "ltitle": "Pengantar Sistem Digital",
+    "description": "Mata ajaran ini mengajarkan prinsip-prinsip dasar sistem digital, komponen sistem digital dan metode perancangannya secara bertahap sehingga membangun sebuah komputer digital sederhana.",
+    "code": "CSCM601150",
+    "sks": 4,
+    "depedencies": [
+      "-"
+    ]
+  },
+  {
+    "ltitle": "Pengelolaan Data Besar",
+    "description": "Kuliah ini memperkenalkan teknologi Big Data untuk menganalisisi data yang selain besar juga bervariasi struktur data-nya. Topik yang diajarkan seperti NoSQL, Hadoop, Map-Reduce programming model, dan big data analytics.",
+    "code": "CSIE604273",
+    "sks": 3,
+    "depedencies": [
+      "Basisdata"
+    ]
+  },
+  {
+    "ltitle": "Pengembangan Perangkat Lunak Open Source",
+    "description": "Mata kuliah ini memberikan pengetahuan kepada mahasiswa sehingga mereka mampu mengimplementasikan dan mengembangkan perangkat lunak berbasis open source.",
+    "code": "CSIE604224",
+    "sks": 3,
+    "depedencies": [
+      "-"
+    ]
+  },
+  {
+    "ltitle": "Pengolahan Bahasa Manusia",
+    "description": "Mata kuliah ini mempelajari berbagai teknik untuk membangun perangkat lunak yang mengolah bahasa manusia. Secara umum, struktur materi kuliah ini diatur sesuai dengan tingkat representasi bahasa, mulai dari (i) morfologi: finite state, two-level morphology, part of speech tagging, (ii) sintaks: context free grammars, probabilistic parsing, dependency parsing; (iii) semantik: rule-based semantic analysis; (iv) discourse: discourse structure, coreference resolution.Mata kuliah ini fokus pada Natural Language Understanding, tapi juga memperkenalkan secara singkat Natural 206  Language Generation. Kuliah ini membahas pendekatan simbolik dan pendekatan statistik dalam menyelesaikan sejumlah permasalahan NLP. Ada beberapa tugas yang melatih peserta kuliah untuk memahami pemodelan bahasa, di mana peserta akan membangun sebuah sistem perangkat lunak yang mampu mengolah masukan berupa bahasa manusia. Tujuan tugas yang diberikan adalah untuk mendukung pemahaman konsep, melatih kemampuan praktikal, dan memberikan pengalaman bagi mahasiswa untuk mengenali tool dan resource NLP yang ada.",
+    "code": "CSCE604231",
+    "sks": 3,
+    "depedencies": [
+      "Teori Bahasa dan Automata",
+      "Sistem Cerdas"
+    ]
+  },
+  {
+    "ltitle": "Pengolahan Citra",
+    "description": "Mata kuliah ini membahas metodologi pengolahan data berupa citra atau image 2D, serta konsep dasar pengenalan pola (pattern recognition), yang dapat diaplikasikan pada berbagai bidang seperti penginderaan jauh, diagnosa medis, pengolahan dokumen, robotika, dll. Topik yang akan dibahas antara lain konsep dasar citra dijital, transformasi citra, peningkatan mutu dan restorasi, transformasi warna, morfology, pemampatan, segmentasi, ekstraksi dan seleksi fitur, clustering, klasifikasi citra, performance evaluation, intelligent multimedia information processing, soft computing, serta self-taught learning. Mahasiswa akan dilatih dengan tugas pemrograman menggunakan bahasa C++, Java, atau Matlab, baik secara individu maupun kelompok. 208",
+    "code": "CSCE604133",
+    "sks": 3,
+    "depedencies": [
+      "Aljabar Linier",
+      "Matematika Dasar 2",
+      "Struktur Data dan Algoritma"
+    ]
+  },
+  {
+    "ltitle": "Pengolahan Multimedia",
+    "description": "Mata kuliah ini mengajarkan prinsip-prinsip representasi, pemampatan, transmisi, modeling, serta authoring dan anotasi terhadap data multimedia, baik teks, audio, citra, maupun video. Mata kuliah ini memberikan pemahaman teoritis maupun praktis mengenai standar-standar data multimedia terkini seperti XML, PDF, MP3, MIDI, JPEG, SVG, AVI, OGM. Mata kuliah juga akan memberikan pengetahuan tentang penggunaan 210  multimedia seperti animasi, hypermedia, dan visual design.",
+    "code": "CSCE604134",
+    "sks": 3,
+    "depedencies": [
+      "Struktur Data dan Algoritma"
+    ]
+  },
+  {
+    "ltitle": "Penjaminan",
+    "description": "Mata kuliah ini meliputi topik-topik yang terkait dengan penjaminan mutu perangkat lunak. Mata kuliah ini mempelajari penggabungan berbagai teknik dan komponen PMPL, seperti: kegiatan PMPL yang biasanya dilakukan pihak eksternal, penerapan aktivitas PMPL terhadap penjadwalan proyek dan kendali anggaran, isuisu implementasi PMPL, pertimbangan manajemen risiko PMPL, dan biaya yang terkait dengan PMPL. Mata kuliah ini juga membahas isu mutu sepanjang proses pengembangan perangkat lunak, termasuk rancangan, implementasi, pengujian, dan pengoperasian. Isu-isu terkait dengan kegiatan praproyek dan pasca-proyek juga akan dibahas. Standar mutu yang relevan juga akan dibahas",
+    "code": "CSCE604126",
+    "sks": 4,
+    "depedencies": [
+      "Rekayasa Perangkat Lunak"
+    ]
+  },
+  {
+    "ltitle": "Perolehan Informasi",
+    "description": "Mata kuliah ini membahas konsep-konsep dasar perolehan informasi dalam mengorganisir dan memperoleh kembali data teks dan multimedia",
+    "code": "CSCE604135",
+    "sks": 3,
+    "depedencies": [
+      "Struktur Data dan Algoritma"
+    ]
+  },
+  {
+    "ltitle": "Persamaan Diferensial",
+    "description": "Mata kuliah ini dirancang untuk memberikan pemahaman dan pengetahuan mengenai berbagai jenis persamaan diferensial yang ada, metode penyelesaiannya, serta penerapannya dalam berbagai bidang melalui pemodelan matematika dari persamaan diferensial tersebut. Mata kuliah ini menitikberatkan pemodelan matematika dari berbagai fenomena alam sesuai dengan kaidah hukum alam yang 214  berlaku dengan menggunakan pendekatan persamaan diferensial terutama persamaan diferensial derajat satu atau dua. Peserta dianjurkan untuk terbiasa menggunakan aplikasi komputasi seperti MAPLE, MATLAB, MATHEMATICA, dan yang lain.",
+    "code": "CSCE604212",
+    "sks": 3,
+    "depedencies": [
+      "Aljabar Linier",
+      "Matematika Dasar 2"
+    ]
+  },
+  {
+    "ltitle": "Prinsip-Prinsip Sistem Informasi",
+    "description": "Mata kuliah ini mengajarkan mahasiswa terkait aspek dan pengetahuan dasar serta prinsipprinsip sistem informasi.",
+    "code": "CSIM601280",
+    "sks": 3,
+    "depedencies": [
+      "-"
+    ]
+  },
+  {
+    "ltitle": "Proyek Pengembangan",
+    "description": "Mata kuliah ini mengajarkan mahasiswa terkait pengembangan suatu proyek sistem informasi. Proses pengembangan mencakup beberapa tahapan umum yaitu inisialisasi, perencanaan, analisis, desain, serta implementasi.",
+    "code": "CSIM603229",
+    "sks": 6,
+    "depedencies": [
+      "Sistem Interaksi (lulus)",
+      "Basis Data (lulus)",
+      "Analisis dan Perancangan Sistem Informasi (lulus)",
+      "Arsitektur dan Pemrograman Aplikasi Perusahaan (pernah mengambil)"
+    ]
+  },
+  {
+    "ltitle": "Proyek Perangkat Lunak",
+    "description": "Mata Kuliah ini memberikan pengalaman, ketrampilan dan pengetahuan pengembangan perangkat lunak dari awal hingga fase deployment dan bisa digunakan oleh pengguna, sebagai satu kesatuan kerja tim dengan menggunakan alat bantu pengembangan dan teknologi maupun metodologi terkini.",
+    "code": "CSCM603228",
+    "sks": 6,
+    "depedencies": [
+      "Rekayasa Perangkat Lunak",
+      "Basis Data"
+    ]
+  },
+  {
+    "ltitle": "Rekayasa Perangkat Lunak",
+    "description": "Mata kuliah ini mencakup siklus pengembangan perangkat lunak, yang terdiri dari perencanaan, analisis, desain, coding, pengujian dan pemeliharaan. Pada mata kuliah ini, mahasiswa membentuk sebuah kelompok dan mengembangkan proyek yang akan dilakukan selama satu semester. Topik yang tercakup dalam mata kuliah ini adalah: metodologi pengembangan perangkat lunak, rekayasa perangkat lunak berbantuan komputer (CASE tool); perencanaan proyek pengembangan perangkat lunak, analisis permasalahan dan kebutuhan pengguna; pengorganisasian spesifikasi perangkat lunak; prinsip dasar perancangan perangkat lunak; masalah-masalah dalam pengkodean, penjaminan kualitas perangkat lunak; pengukuran kualitas perangkat lunak; pengujian perangkat lunak, pemeliharaan perangkat lunak",
+    "code": "CSCM603125",
+    "sks": 3,
+    "depedencies": [
+      "Dasar-Dasar Pemrograman 2"
+    ]
+  },
+  {
+    "ltitle": "Robotika",
+    "description": "Mata kuliah ini memberikan pengantar tentang implementasi robot dari sudut pandang ilmu komputer. Topik yang dibahas meliputi gerakan 222  dengan roda ataupun kaki (locomotion), penginderaan dan persepsi dengan sensor, penanganan ketidakpastian pada persepsi, representasi dan pemodelan lokasi secara probabilistik. Pada mata kuliah ini mahasiswa akan menggunakan perangkat lunak seperti Robot Operating System (ROS)",
+    "code": "CSCE604232",
+    "sks": 3,
+    "depedencies": [
+      "Pengantar Organisasi Komputer",
+      "Sistem Cerdas"
+    ]
+  },
+  {
+    "ltitle": "Simulasi dan Pemodelan",
+    "description": "Mata kuliah ini memperkenalkan dasar-dasar pemodelan sistem menggunakan simulasi komputer dan teknik matematik terutama dengan pendekatan memakai persamaan diferensial (pemahaman topik/pernah mengambil mata kuliah Persamaan Diferensial akan sangat membantu). Beberapa studi kasus akan dijabarkan baik dalam perkuliahan maupun dalam latihan dan tugas-tugas perkuliahan yang diberikan. Contoh-contoh pemodelan sistem yang didiskusikan akan mencakup berbagai bidang dengan penekanan pada analisa dan pemodelan sistem komputer dan komunikasi , sistem antrian, dan beberapa sistem lain dengan menggunakan beberapa paradigma permodelan seperti, simulasi, teori antrian, dan pendekatan proses stochastic.",
+    "code": "CSCE604111",
+    "sks": 3,
+    "depedencies": [
+      "Statistika dan Probabilitas",
+      "Jaringan Komputer"
+    ]
+  },
+  {
+    "ltitle": "Sistem Informasi Geografis",
+    "description": "Mata kuliah ini membahas konsep, teori, serta teknik-teknik untuk mengakuisisi, merepresentasikan, mengolah, dan memanfaatkan data geospasial seperti peta (map). Topik yang dibahas meliputi data vektor vs. raster, representasi dan pengorganisasian data geospasial serta peta, kualitas dan standar data geospasial, integrasi GIS dan remote sensing, implementasi GIS, GIS berbasis internet",
+    "code": "CSCE604184",
+    "sks": 3,
+    "depedencies": [
+      "Basis Data",
+      "Rekayasa Perangkat Lunak"
+    ]
+  },
+  {
+    "ltitle": "Sistem Informasi Kesehatan",
+    "description": "Mata kuliah ini mengantarkan mahasiswa dalam memahami konsep dan regulasi e-health yang dapat digunakan di organisasi kesehatan. Mata kuliah ini juga akan memperkenalkan mahasiswa terkait teknologi yang umum digunakan dalam mengimplementasi e-health seperti teknologi HL7, PACS dan lain sebagainya. Mata kuliah ini disiapkan untuk mahasiswa yang akan bekerja sebagai konsultan TI yang berperan sebagai arsitek sistem di organisasi. Aktualisasi mata kuliah ini akan dilakukan jika terdapat tren teknologi kesehatan terbaru.  227",
+    "code": "CSIE604161",
+    "sks": 3,
+    "depedencies": [
+      "Sistem-Sistem Perusahaan (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Sistem Informasi Perusahaan dan Akuntansi",
+    "description": "Mata kuliah ini bertujuan untuk memberikan pengetahuan terhadap solusi IS terintegrasi bagi perusahaan dan metode implementasinya. Mata kuliah ini akan mengajarkan mahasiswa proses bisnis utama dan proses bisnis pendukung dalam suatu organisasi dan bagaimana memodelkan proses bisnis tersebut, termasuk pencatatan keuangan di dalam perusahaan. Di samping itu, diberikan pula kebutuhan terhadap solusi IS (aplikasi) yang dapat digunakan untuk mengimplementasikan proses bisnis tersebut. Proses bisnis utama yang diberikan dalam mata ajar ini mengambil contoh di bidang manufacturing yaitu meliputi proses utama di 3 area yaitu di area sales and marketing, procurement, dan production. Selain itu, akan diperkenalkan juga proses bisnis pendukung terkait pengelolaan sumber daya manusia dan keuangan perusahaan. Untuk proses bisnis utama, pembahasan area sales and marketing juga mencakup pengenalan konsep customer relationship management sementara untuk area production and procurement akan juga diperkenalkan konsep supply chain management. Kuliah ini juga bertujuan untuk meningkatkan pengetahuan dan kemampuan mahasiswa terkait pencatatan keuangan di perusahaan. Untuk pencatatan keuangan, peserta kuliah akan diajarkan dari mulai dasar pencatatan, seperti pengenalan akun, debit-kredit, cara membaca laporan keuangan, serta membuat laporan keuangan  229  terintegrasi. Selain itu. peserta akan diajarkan mengenai implementasi Sistem Informasi Akuntansi.",
+    "code": "CSIM602263",
+    "sks": 4,
+    "depedencies": [
+      "Manajemen Bisnis (lulus)"
+    ]
+  },
+  {
+    "ltitle": "Sistem Informasi Sumber Daya Manusia",
+    "description": "Mata kuliah ini berfokus pada pemahaman dasar konsep dan teknik manajemen SDM. mata kuliah ini akan menyoroti aplikasi praktis yang dapat digunakan untuk menangani kegiatan rutin terkait pengelolaan SDM, serta perencanaan personil dan kontribusinya. Isu yang dibahas meliputi rekrutmen, penempatan, pelatihan dan pengembangan, kompensasi serta hubungan dengan pegawai dan keamanan karyawan",
+    "code": "CSIE604285",
+    "sks": 3,
+    "depedencies": [
+      "Sistem-Sistem Perusahaan"
+    ]
+  },
+  {
+    "ltitle": "Sistem Interaksi",
+    "description": "Mata kuliah akan membekali mahasiswa dengan pengetahuan mengenai perancangan antarmuka untuk perangkat lunak. Capaian pembelajaran mata kuliah ini adalah mahasiswa mampu menerapkan prinsip-prinsip sistem interaksi dalam mengembangkan sebuah aplikasi atau menawarkan sebuah alternatif desain interaksi yang lebih baik. Mata kuliah disampaikan melalui metode pembelajaran aktif melalui diskusi kelompok kecil (small group discussion), pembelajaran berbasis proyek (Project-based Learning), dan penggunaan Learning Management System SCELE. Ruang lingkup yang dibahas mencakup konteks historis  233  dari human-computer interaction (HCI), interaction design, cognition, teknik-teknik dalam HCI, aspek sosial dalam HCI, pengumpulan dan analisis data, proses desain interaksi, prototyping, dan evaluasi. Bahasa Indonesia merupakan bahasa pengantar yang digunakan dalam mata kuliah ini.",
+    "code": "CSIM603124",
+    "sks": 3,
+    "depedencies": [
+      "Pemrograman Berbasis Platform"
+    ]
+  },
+  {
+    "ltitle": "Sistem Operasi",
+    "description": "Mata kuliah ini akan dimulai dengan pengenalan singkat dari sistem operasi, hubungan antara hardware dan sistem operasi, dan beberapa komponen utama dari sebagian besar sistem operasi. Mata kuliah ini membahas trade-off yang mungkin muncul antara kinerja dan fungsionalitas dalam perancangan dan implementasi sistem operasi. Penekanan khusus akan diberikan kepada subsistem utama sebuah sistem operasi, yaitu manajemen proses (proses, thread, penjadwalan CPU, sinkronisasi, dan deadlock), manajemen memori (segmentasi, paging, swapping), sistem file, penyimpanan sekunder dan dukungan sistem operasi untuk sistem terdistribusi",
+    "code": "CSGE602055",
+    "sks": 4,
+    "depedencies": [
+      "Pengantar Organisasi Komputer"
+    ]
+  },
+  {
+    "ltitle": "Sistem Operasi",
+    "description": "Mata kuliah ini membahas tentang konsep dan halhal yang berkaitan dengan Sistem Operasi (Operating System), dengan cakupan materi yang telah disesuaikan dengan kebutuhan program studi sistem informasi. Pembahasan yang tercakup di dalam mata kuliah ini diantaranya adalah tentang the role of the operating system, development of client-server applications, computer system security and cryptographic protocols, file systems, the memory hierarchy (caches, virtual memory, and working sets), interrupt handling, processes, multiprocessors, synchronization, scheduling, intro to Network Protocols, intro to Cloud Computing. Di dalam perkuliahan, digunakan Bahasa Indonesia sebagai pengantar, disertai Bahasa Inggris di dalam materi dan juga buku acuan.",
+    "code": "CSIM602155",
+    "sks": 3,
+    "depedencies": [
+      "Dasar-Dasar Arsitektur Komputer (Lulus)  untuk  Sistem  Informasi  236"
+    ]
+  },
+  {
+    "ltitle": "Sistem Terdistribusi",
+    "description": "Mata kuliah ini mengeksplorasi isu-isu yang terkait dengan perancangan dan implementasi dari sistem terdistribusi dengan penekanan pada bagaimana shared state, interaksi dan komunikasi antara beberapa proses yang berjalan pada sistem",
+    "code": "CSCE604154",
+    "sks": 3,
+    "depedencies": [
+      "Jaringan Komputer"
+    ]
+  },
+  {
+    "ltitle": "Sistem Tertanam",
+    "description": "Sistem tertanam (Embedded System) merupakan sistem berbasis mikrokontroler dan merupakan perpaduan antara hardware dan software untuk suatu fungsi tertentu. Sejak ditemukan mikroprosesor awal tahun 70an, teknologi dan aplikasi sistem tertanam berkembang sangat pesat dan merambah ke berbagai aspek kehidupan manusia seperti mobile devices (handphones, MP3 players, dsb), medical systems, robotics, automations, dsb. Mata kuliah ini ditujukan untuk memberikan bekal untuk perancangan sistem tertanam, terutama dari aspek kemampuan menghasilkan software yang handal",
+    "code": "CSCE604151",
+    "sks": 3,
+    "depedencies": [
+      "Pengantar Organisasi Komputer"
+    ]
+  },
+  {
+    "ltitle": "Statistika dan Probabilitas",
+    "description": "Setelah lulus mata kuliah ini mahasiswa diharapkan mampu menerapkan konsep-konsep probabilitas dan statistik untuk menginterpretasikan data guna mendukung pemecahan masalah. Metode pembelajaran yang digunakan dalam mata kuliah ini adalah pembelajaran kooperatif. Ruang lingkup yang dibahas mencakup statistik deskriptif, teori probabilitas dasar, Teorema Bayes, variabel acak (Bernoulli, Binomial, Geometrik, Poisson, Uniform, Eksponensial, Normal), distribusi statistik sampel (central limit theorem), estimasi parameter (estimasi titik dan interval), dan uji hipotesis (mean dan varians). Bahasa yang  241  digunakan dalam perkuliahan adalah bahasa Indonesia.",
+    "code": "CSGE602013",
+    "sks": 3,
+    "depedencies": [
+      "Kalkulus 1",
+      "Matematika Diskret 1"
+    ]
+  },
+  {
+    "ltitle": "Statistika Terapan",
+    "description": "Salah satu kompetensi yang harus dimiliki oleh praktisi di bidang sistem informasi adalah kemampuan untuk mengolah dan menganalisis data. Mata kuliah ini berfokus untuk mengembangkan pengetahuan terkait teknikteknik statistik lanjut yang diperlukan untuk mengolah data, sehingga bermanfaat dalam proses pengambilan keputusan. Mata kuliah ini mengembangkan keterampilan untuk memilih teknik statistik yang tepat untuk memecahkan kasus tertentu.",
+    "code": "CSIM603216",
+    "sks": 3,
+    "depedencies": [
+      "Statistika dan Probabilitas"
+    ]
+  },
+  {
+    "ltitle": "Struktur Data dan Algoritma",
+    "description": "Mata kuliah ini mengajarkan teknik-teknik dasar untuk abstraksi struktur data, algoritma-algoritma akses dan manipulasi struktur-struktur abstraksi tersebut; serta pengantar analisis kompleksitas eksekusi algoritma-algoritma tersebut.",
+    "code": "CSGE602040",
+    "sks": 4,
+    "depedencies": [
+      "Dasar-Dasar Pemrograman 1"
+    ]
+  },
+  {
+    "ltitle": "Technopreneurship",
+    "description": "Mata ajar ini memperkenalkan dan memberikan wawasan tentang kewirausahaan di bidang teknologi (technology-entrepreneurship).",
+    "code": "CSIE604290",
+    "sks": 3,
+    "depedencies": [
+      "62 SKS"
+    ]
+  },
+  {
+    "ltitle": "Teknik Kompilator",
+    "description": "Mata kuliah ini membahas beberapa teknik pembuatan kompilator untuk sebuah bahasa pemrograman yang didefinisikan oleh tata bahasa tertentu. Teknik-teknik ini akan dibahas sesuai dengan tahapan pemrosesan sebuah kompilator, yaitu pembacaan kode sumber, analisis tata bahasa, serta pembentukan kode. Topik-topik yang dibahas antara lain analisis leksikal, tabel simbol, parsing, syntax-directed translation, type checking, target code generation, optimasi kode, dst. Mahasiswa akan dilatih dengan tugas perancangan kompilator sederhana 246",
+    "code": "CSCE604228",
+    "sks": 4,
+    "depedencies": [
+      "Struktur Data dan Algoritma",
+      "Teori Bahasa dan Automata"
+    ]
+  },
+  {
+    "ltitle": "Teknologi Mobile",
+    "description": "Mata ajar ini merupakan pengantar bidang komunikasi mobile yang ditujukan untuk memberikan gambaran umum tentang teknologi mobile dari sudut pandang ilmu komputer. Pada awal perkuliahan, diberikan beberapa dasar tentang teknologi transmisi nirkabel. Topik yang dibahas meliputi: frekuensi yang digunakan untuk komunikasi, sinyal, skema dasar multiplexing dan modulasi, protokol akses, serta persyaratan aplikasi. Berbagai teknologi mobile seperti CDMA, GSM, DECT, W-CDMA, CDMA2000, dan UMTS akan diperkenalkan sebagai bagian dari sistem komunikasi mobile. Dalam kuliah ini juga dibahas bagaimana memanfaatkan sensor dan layanan yang tersedia dalam perangkat komunikasi mobile untuk membangun aplikasi diatas platform mobile.",
+    "code": "CSCE604179",
+    "sks": 3,
+    "depedencies": [
+      "Jaringan Komunikasi Data Komputer (IK)  (SI) atau  Jaringan"
+    ]
+  },
+  {
+    "ltitle": "Teori Bahasa dan Automata",
+    "description": "Mata kuliah ini membahas model teoritis tentang komputasi serta bahasa formal yang melandasi semua sistem komputer. Topik-topik yang dibahas  249  meliputi: finite state automata dan bahasa reguler, pushdown automata dan bahasa context-free, mesin Turing dan bahasa recursively enumerable, masalah decision dan (un)decidability",
+    "code": "CSCM602241",
+    "sks": 4,
+    "depedencies": [
+      "Matematika Diskret 1",
+      "Matematika Diskret 2"
+    ]
+  },
+  {
+    "ltitle": "Topik Khusus Bidang Minat E-Bisnis",
+    "description": "Mata kuliah ini berfokus pada keterampilan mahasiswa dalam merumuskan strategi dan langkah kerja yang dibutuhkan untuk memecahkan permasalahan nyata dalam bisnis dan organisasi dengan menggunakan teknologi mutakhir. Selebihnya, sesi perkuliahan akan membahas topiktopik terbaru terkait perkembangan tata kelola SI/TI beserta aspek teknologinya sehingga mahasiswa mempunyai pemahaman terhadap isu-isu terkini terkait tata kelola SI/TI dan mempunyai gambaran arah pengembangan tata kelola SI/TI lebih lanjut.",
+    "code": "CSIE604265",
+    "sks": 3,
+    "depedencies": [
+      "100 SKS"
+    ]
+  },
+  {
+    "ltitle": "Topik Khusus Bidang Minat Infrastruktur dan Security",
+    "description": "Mata kuliah ini akan membahas perkembangan riset dan teknologi terkini pada bidang infrastruktur dan security. Isi materinya akan disesuaikan dengan isuisu terkini pada saat mata kuliah ditawarkan.",
+    "code": "CSCE604055",
+    "sks": 3,
+    "depedencies": [
+      "100 SKS"
+    ]
+  },
+  {
+    "ltitle": "Topik Khusus Bidang Minat Kecerdasan Artifisial",
+    "description": "Mata kuliah ini akan membahas perkembangan riset dan teknologi terkini pada bidang kecerdasan buatan. Isi materinya akan disesuaikan dengan isu-isu terkini pada saat mata kuliah ditawarkan.",
+    "code": "CSCE604036",
+    "sks": 3,
+    "depedencies": [
+      "100 SKS"
+    ]
+  },
+  {
+    "ltitle": "Topik Khusus Bidang Minat Rekayasa Perangkat Lunak",
+    "description": "Mata kuliah ini akan membahas perkembangan riset dan teknologi terkini pada bidang rekayasa perangkat lunak. Isi materinya akan disesuaikan dengan isu-isu terkini pada saat mata kuliah ditawarkan",
+    "code": "CSCE604227",
+    "sks": 3,
+    "depedencies": [
+      "100 SKS"
+    ]
+  },
+  {
+    "ltitle": "Topik Khusus Bidang Minat Tata Kelola SI/TI",
+    "description": "Kuliah ini membahas topik-topik terbaru terkait perkembangan manajemen/tata kelola SI/TI beserta aspek teknologinya sehingga mahasiswa mempunyai pemahaman terhadap isu-isu terkini terkait tata  jurnal/conference  paper  254  kelola SI/TI dan mempunyai gambaran pengembangan tata kelola SI/TI lebih lanjut.  arah",
+    "code": "CSIE604270",
+    "sks": 3,
+    "depedencies": [
+      "100 SKS"
+    ]
+  },
+  {
+    "ltitle": "Tugas Akhir",
+    "description": "Mata kuliah ini melatih kemampuan mahasiswa untuk mengembangkan bidang ilmu/teknologi atau melanjutkan studinya. Pada mata kuliah ini, mahasiswa akan mengerjakan suatu topik penelitian secara mandiri di bawah bimbingan seorang dosen. Topik penelitian yang dikerjakan harus terkait dengan kegiatan salah satu lab riset di Fasilkom UI. Mahasiswa harus menuliskan laporan ilmiah mengenai pekerjaannya dan mempertahankannya pada Sidang Tugas Akhir",
+    "code": "CSGE604099",
+    "sks": 6,
+    "depedencies": [
+      "114 SKS",
+      "Metodologi Penelitian dan Penulisan Ilmiah"
+    ]
+  },
+  {
+    "ltitle": "Ubiquitous dan Net-Centric Computing",
+    "description": "Komputasi ubiquitous, atau disebut juga sebagai komputasi pervasive, merupakan visi sistem komputer yang merasuk ke dalam dunia fisik dan lingkungan sosial manusia. Salah satu tujuannya adalah untuk membuat komputer yang dapat dioperasikan dalam lingkungan fisik yang beragam, dan membangun teknologi yang sadar tentang lingkungan sekitarnya dan dapat diakses dan digunakan oleh manusia dan lingkungan sosial secara harmonis. Pada komputasi ubiquitous, informasi dapat diolah oleh obyek dan kegiatan sehari-hari",
+    "code": "CSCE604157",
+    "sks": 3,
+    "depedencies": [
+      "Jaringan Komputer"
+    ]
+  }
+]
